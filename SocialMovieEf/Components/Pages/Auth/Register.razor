@@ -1,0 +1,15 @@
+﻿@page "/register"
+@using SocialMovieEf.Components.Shared
+
+
+<EditForm Model="_newUser" OnValidSubmit="RegisterAsync" FormName="RegisterUser">
+    
+    <div class="input-form w-50" >
+        <InputText id="emailInput" class="form-control" @bind-Value="_newUser.Email" required />
+        <AutoLabel For="@(()=>_newUser.Email)" Class="form-label" Id="emailInput" />
+        <ValidationMessage For="@(()=>_newUser.Email)" />
+    </div>
+
+
+
+</EditForm>

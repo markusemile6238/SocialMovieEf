@@ -1,0 +1,18 @@
+﻿@page "/login"
+
+<h3>Connexion</h3>
+<EditForm Model="_loginForm" OnValidSubmit="LoginAsync" FormName="LoginForm" class="card p-3 w-75 m-auto">
+    
+    <div class="w-75 m-auto text-center p-3 mt-2">
+        <label class="form-label">Email</label>
+        <InputText class="input-text form-control w-75 m-auto text-center" @bind-Value="_loginForm.Email"/>
+    </div>
+    
+    <div class="w-75 m-auto text-center p-3 mt-2">
+        <label class="form-label">Password</label>
+        <InputText class="form-control w-75 m-auto text-center" @bind-Value="_loginForm.Password"/>
+    </div>
+    
+    <button type="submit" class="btn btn-outline-secondary w-25 m-auto">Login</button>
+    <p class="text-danger">@_error</p>
+</EditForm>

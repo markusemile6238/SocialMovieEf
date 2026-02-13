@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\formation\\blazor\\SocialMovieEf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|c:\\formation\\blazor\\socialmovieef\\socialmovieef\\wwwroot\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|solutionrelative:socialmovieef\\wwwroot\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|c:\\formation\\blazor\\socialmovieef\\socialmovieef\\components\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|solutionrelative:socialmovieef\\components\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|c:\\formation\\blazor\\socialmovieef\\socialmovieef\\components\\pages\\auth\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|solutionrelative:socialmovieef\\components\\pages\\auth\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|c:\\formation\\blazor\\socialmovieef\\socialmovieef\\models\\userform\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|solutionrelative:socialmovieef\\models\\userform\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|c:\\formation\\blazor\\socialmovieef\\socialmovieef\\components\\pages\\auth\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB7C19E-C8DC-7377-B071-38F388604B3A}|SocialMovieEf\\SocialMovieEf.csproj|solutionrelative:socialmovieef\\components\\pages\\auth\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\Models\\UserForm\\CreateUser.cs",
+              "RelativeDocumentMoniker": "SocialMovieEf\\Models\\UserForm\\CreateUser.cs",
+              "ToolTip": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\Models\\UserForm\\CreateUser.cs",
+              "RelativeToolTip": "SocialMovieEf\\Models\\UserForm\\CreateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T14:25:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\Components\\Pages\\Auth\\Register.razor",
+              "RelativeDocumentMoniker": "SocialMovieEf\\Components\\Pages\\Auth\\Register.razor",
+              "ToolTip": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\Components\\Pages\\Auth\\Register.razor",
+              "RelativeToolTip": "SocialMovieEf\\Components\\Pages\\Auth\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T14:16:59.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.razor.cs",
+              "DocumentMoniker": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\Components\\Pages\\Auth\\Register.razor.cs",
+              "RelativeDocumentMoniker": "SocialMovieEf\\Components\\Pages\\Auth\\Register.razor.cs",
+              "ToolTip": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\Components\\Pages\\Auth\\Register.razor.cs",
+              "RelativeToolTip": "SocialMovieEf\\Components\\Pages\\Auth\\Register.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T14:16:26.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\Components\\Pages\\Auth\\Login.razor",
+              "RelativeDocumentMoniker": "SocialMovieEf\\Components\\Pages\\Auth\\Login.razor",
+              "ToolTip": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\Components\\Pages\\Auth\\Login.razor",
+              "RelativeToolTip": "SocialMovieEf\\Components\\Pages\\Auth\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T09:59:34.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form.css",
+              "DocumentMoniker": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\wwwroot\\form.css",
+              "RelativeDocumentMoniker": "SocialMovieEf\\wwwroot\\form.css",
+              "ToolTip": "C:\\formation\\blazor\\SocialMovieEf\\SocialMovieEf\\wwwroot\\form.css",
+              "RelativeToolTip": "SocialMovieEf\\wwwroot\\form.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-13T15:32:16.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
